@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Uid:</b>
+  <%= @poi_cat.uid %>
+</p>
+
+<p>
+  <b>Mapuid:</b>
+  <%= @poi_cat.mapuid %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @poi_cat.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @poi_cat.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_poi_cat_path(@poi_cat) %> |
+<%= link_to 'Back', poi_cats_path %>

@@ -1,0 +1,532 @@
+[
+ {"point_of_interest":
+  {
+  "uid": 1,
+  "name": "Abroad 101 (56)",
+  "description": "Abroad101 is a review website and marketplace for the $40B global study abroad industry. Our mission is to promote intercultural understanding and global citizenship by fostering a safer, better-researched, and most-meaningful study abroad experience for as many students as possible. Abroad101 empowers universities with our market-leading evaluation tool and sells leads connecting students with global experience providers. We are a passionate team of individuals committed to making a difference. Company Website: http://www.studyabroad101.com",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353189, "longitude": -71.045389}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 2,
+  "name": "Architexa (34)",
+  "description": "Software developers spend over 50% of their time making sense of code. Tools today either require significant training or require programmers to laboriously go through code. Instead, Architexa helps developers to easily understand, document, and discuss design with coworkers. Based on a PhD from MIT, the suite supports an intuitive but powerful approach that allows UML diagramming to be code-centric instead of model-centric by giving users an interactive exploratory visualization platform. Company Website: http://www.architexa.com",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353029, "longitude": -71.045222}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 3,
+  "name": "Aukera Therapeutics, Inc. (14)",
+  "description": "Aukera Therapeutics is developing a novel protein therapy, to treat ALS (also known as Lou Gehrigís disease), a rare but devastating neurodegenerative disease that is rapidly progressive and invariably fatal, usually within 3-5 years. There is only one FDA approved drug for ALS which extends life only 2-3 months and has no effect on the symptoms of the disease. Replacement therapy with Angiogenin, has shown significant effect on both survival and motor function in ALS mice studies. Company Website: http://www.aukeratx.com",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353095, "longitude": -71.045132}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 4,
+  "name": "Blackscreen Studios (8)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353235, "longitude": -71.045105}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 5,
+  "name": "Brass Monkey (17)",
+  "description": "",
+  "pointOfInterestCategoryUid": 202,
+  "latLong": {"latitude": 42.353095, "longitude": -71.045037}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 6,
+  "name": "Day 2 Night (46)",
+  "description": "Day 2 Night convertible high heel shoes allow women to easily adjust their heel height in Ω inch increments going from a 1 Ωî kitten heel for walking to and from events (or for casual occasions) all the way up to a 4î sexy heel for a night out on the town. Our convertible heels allow women to feel comfortable, confident, and sexy at all times while keeping their feet pain free. Weíve eliminated the need to bring extra shoes in your purse while walking to work, traveling, or attending an event. Company Website: http://www.convertible-heels.com",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353025, "longitude": -71.045396}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 7,
+  "name": "Embed.ly (29)",
+  "description": "Every day users post and share links to distribute ideas, news and entertainment. Embedly changes the game by providing the best technology to transform links into engaging videos, images and media so that the most relevant message is delivered to the most relevant audience. Embedly is the new link; where users can embed media to distribute ideas, and businesses can reclaim their identity through the power of the consumer. Company Website: http://embed.ly",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353021, "longitude": -71.045142}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 8,
+  "name": "Emergent (42)",
+  "description": "Emergent streamlines the development of renewable energy projects by integrating the host community into the design process and sharing the financial benefits. Our model revolutionizes an industry in which projects that are technically and financially feasible are rejected by the local populace due to their negative impacts. We utilize unique design and financing methods to provide significant incentives for the host community, building local support and mitigating the risk of failure. Company Website: http://www.emergentgroup.com",
+  "pointOfInterestCategoryUid": 204,
+  "latLong": {"latitude": 42.353008, "longitude": -71.045354}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 9,
+  "name": "Energesis (54)",
+  "description": "Energesis is a biotechnology company developing therapeutics for obesity and diabetes by targeting brown fat. Our approach is a highly novel strategy directed at increasing the bodyís ability to burn stored fat. All previous attempts to combat obesity have focused on reducing energy intake, as opposed to Energesis' approach of increasing energy expenditure. Our management team brings a strong entrepreneurial record together with world-class scientific, medical, and product development expertise. Company Website: http://www.energesispharma.com",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353159, "longitude": -71.045389}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 10,
+  "name": "Enertaq (41)",
+  "description": "Enertaq, a category winner at the MIT Clean Energy Prize, has developed energy management software which optimizes the timing of power demand in commercial buildings on a much faster time-scale than existing services, to drive more value for both buildings and the grid. We have secured an agreement for a pilot project with an international building controls company, with a property management group and building owner signing on to host the pilot. Company Website: http://www.enertaq.com",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353001, "longitude": -71.045314}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 11,
+  "name": "FiVi (59)",
+  "description": "We use social media to make leading an informed active lifestyle fun and motivating. FiVi.com has some of the best (and growing) tools for logging, sharing, and tracking activities. Anyone can model and upload a workout with rich media. As people use your workout, we will rank the most effective training programs. Our goal is to provide the most credible destination of peer validated information on what works by tapping into the collective intelligence of active communities. Company Website: http://www.fivi.com",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353211, "longitude": -71.045390}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 12,
+  "name": "Fresh Ground (13)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353125, "longitude": -71.045133}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 13,
+  "name": "Green Trade Association (15)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353095, "longitude": -71.045103}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 14,
+  "name": "HuddleHub (19)",
+  "description": "HuddleHub has a different philosophy about fantasy sport commissioner tools because we come from a very different background than most companies. The founders of HuddleHub have been active in the fantasy sports community since 1998 and understand many of the difficulties that face cross-platform league management.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353072, "longitude": -71.045068}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 15,
+  "name": "Invizual (10)",
+  "description": "If a picture is worth a thousand words, what about the other information related to that image? Invizual is a simple, seamless enterprise solution for capturing images and their respective metadata. Images and their contextual information (time, location, IMEI, etc) are captured through a light handheld app and then transmitted to a server, where they are processed, filed, and indexed for later use. Invizual works quietly behind the scenes so you don't have to. Company Website: http://www.swarmplistic.com",
+  "pointOfInterestCategoryUid": 202,
+  "latLong": {"latitude": 42.353120, "longitude": -71.045038}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 16,
+  "name": "Karma Intelligence (26)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353014, "longitude": -71.045039}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 17,
+  "name": "Ksplice (24)",
+  "description": "You know that You must reboot to install new updates message? Ksplice has developed technology that can install those updates, without rebooting. Rebooting for updates is pervasive and painful: downtime has real financial cost. But not updating is exposing yourself to security risks: 90% of attacks take advantage of vulnerabilities you'd be secure against if you kept up to date. So Ksplice is a lifesaver for IT administrators: just ask our 100+ customers. Rebooting is obsolete!",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353043, "longitude": -71.045071}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 18,
+  "name": "La Capoise (5)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353256, "longitude": -71.045105}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 19,
+  "name": "Leivia Strings (33)",
+  "description": "Leiva Learning Strings provides a method for teaching students how to correlate musical notes to the cumbersome fingering positions of any stringed musical instrument by color-coding each note. The seven different colors are set to match the seven natural notes (A,B,C,D,E,F,G,) in music theory. With our patented Learning Strings, individuals can learn to play and read sheet music by matching colors making stringed instruments as fun and easy to learn as they are in the video game ìGuitar Heroî. Company Website: http://www.leivastrings.com",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353050, "longitude": -71.045221}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 20,
+  "name": "Locately (25)",
+  "description": "",
+  "pointOfInterestCategoryUid": 202,
+  "latLong": {"latitude": 42.353043, "longitude": -71.045037}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 21,
+  "name": "Locolocracy (48)",
+  "description": "Local issues matter, but often local government is only influenced by those with the time to spend hours in meetings. The Internet has transformed media, but online content is scattered and filled with anonymous ranting and clutter, especially at the local level. We partner with local media and government, providing a website where registered voters using real names can vote on local issues and rank the best reasons for supporting their side. Video @ bit.ly/db7ZM6. Company Website: http://localocracy.org",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353085, "longitude": -71.045389}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 22,
+  "name": "My Life List (30)",
+  "description": "My Life List is focused on helping people to achieve their major life goals. Through our award-winning web platform, www.mylifelist.org, the company guides people to realize their life goals by creating a life list. Using a trademarked methodology and intuitive goal enabler technology, our website achieves significant depth of engagement and action highly valued by our advertising partners. Having spent over $250K in development and backed by a strong team, we are well positioned for growth. Company Website: http://www.mylifelist.org",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353007, "longitude": -71.045188}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 23,
+  "name": "My Super Me (50)",
+  "description": "MySuperMe is a social gaming website that ignites kids to WANT to be healthy by associating online games and social interactions with healthy habits. Making health fun for ages 7-11 (30% overweight (US), avg 10 hrs/day on entertainment media, $40B in purchasing power) MySuperMe sells devices for measuring physical activity/healthy eating, and advergaming to health-oriented vendors. Different from education based programs and Wii games; MySuperMe makes OFFLINE healthy choices fun and rewarding.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353107, "longitude": -71.045355}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 24,
+  "name": "NetBlazr (58)",
+  "description": "netBlazr delivers secure, high-speed broadband to small and mid-size businesses in the city. Our innovative wireless technology does an end run on Verizon & Comcast by bringing service through your office window. Additionally, our unique business model with its ultra-low cost structure enables us to offer basic broadband for FREE and premium services for a fraction of market rates, all while our network coverage increases with each new member. Join us and let netBlazr free your broadband.netBlazr delivers secure, high-speed broadband to small and mid-size businesses in the city. Our innovative wireless technology does an end run on Verizon & Comcast by bringing service through your office window. Additionally, our unique business model with its ultra-low cost structure enables us to offer basic broadband for FREE and premium services for a fraction of market rates, all while our network coverage increases with each new member. Join us and let netBlazr free your broadband. Company Website: http://www.netBlazr.com",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353210, "longitude": -71.045354}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 25,
+  "name": "Neumitra (41)",
+  "description": "Neumitra is developing a wearable biosensor and supporting software to monitor and detect anxiety episodes based on a patientís symptoms. The sensor collects continuous stress-based data. Our software examines their real-time physiological signals and presents anxiety therapies linked to clinical efforts. For the millions of people suffering from anxiety disorders, this personalized therapeutic aid provides a long-term approach to managing their symptoms and when they strike as daily stressors.",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353013, "longitude": -71.045298}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 26,
+  "name": "Niize (32)",
+  "description": "There are over 1.12M retail establishments in the US spending over $3.4 billion a year on thermal receipt rolls to formalize their transactions with customers. This is a wasteful and resource intensive approach (trees, oil, water). We provide all tiers of the global retail sector solutions for viable digital alternatives to traditional transaction records (paper receipts), enabling a deeper connection and understanding with customers while taking action for sustainable business practices.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353050, "longitude": -71.045188}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 27,
+  "name": "Ogee (37)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353029, "longitude": -71.045271}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 28,
+  "name": "Open Runway (46)",
+  "description": "Open Runway is a fashion 2.0 retailer changing the way women shop via a social commerce experience. Open Runway connects shoppers to emerging designers through crowdsourced design contests, and empowers women to customize and purchase their own made-toorder fashion using our interactive design studio. The initial product category is shoes, to be followed by handbags, accessories and apparel.",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353035, "longitude": -71.045383}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 29,
+  "name": "OsmoPure (43)",
+  "description": "1.1 Billion people do not have access to clean drinking water; 3.5 million die every year as a result. Clean water is difficult to come by; used soda bottles that clutter our planet are not. OsmoPure up cycles this trash into simple and effective water filtration systems that are vital to life in disaster situations and commercially attractive for recreation. We aim to ease the water crisis with a profitable business that will remain strong when efforts running only on good will have dried up.",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353030, "longitude": -71.045354}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 30,
+  "name": "Pearl's Premium, Inc. (9)",
+  "description": "With 40 million acres of lawn, America s biggest crop is grass. Lawn and garden is an $8 billion industry. Health magazine named your lawn the most toxic place in your home! Our patent-pending seed (slow growing, no watering, no chemicals) is transforming lawn care, saving billions of dollars, making us healthier, cutting water waste and protecting our environment. Sold online and through 80 Whole Foods Markets, our seed has garnered dozens of positive reviews and is already in over 4,000 lawns.",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353235, "longitude": -71.045069}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 31,
+  "name": "Propel Careers (40)",
+  "description": "",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353029, "longitude": -71.045304}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 32,
+  "name": "Rally Point Webinars, LLC (36)",
+  "description": "We help firms grow their revenue by finding new clients & reaching new prospects through online events. We do this by 1)developing content that positions our clients as thought leaders 2)executing marketing campaigns that connect with prospects 3)running flawless webinars that deliver value to attendees and 4)creating conversations that lead to new clients. By applying our own marketing approach to our growth, we have served 23 clients & grown from $0 to $315k in sales in under a year.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353007, "longitude": -71.045270}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 33,
+  "name": "Rate it Green (12)",
+  "description": "Rate It Green is a green building directory, peer-review resource and online community. The company aims to further accelerate industry growth by facilitating information sharing and exchange. Companies list products and services on the site, and their clients share their experiences with others through reviews and planned social networking. Rate It Green publishes Green Building 101, a green building information resource guide. Basic Company Listings are free, as is Community Membership.",
+  "pointOfInterestCategoryUid": 203,
+  "latLong": {"latitude": 42.353125, "longitude": -71.045104}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 34,
+  "name": "Relay Technology Management, Inc. (27)",
+  "description": "Relay has developed a software platform that will save the pharmaceutical industry hard and soft costs associated with identifying and evaluating scientific innovation. The software draws on sophisticated algorithms to analyze publications, clinical trials, intellectual property, and commercial potential. Relay has several paying customers in the pharma industry and academia, and will generate revenue through software subscriptions, online transactions, and consulting projects.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353021, "longitude": -71.045071}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 35,
+  "name": "Rentabilities (47)",
+  "description": "Have you ever tried to rent anything? Finding and booking rentals is a pain - no rental stores let you order online, and finding the information you need is time consuming. Rentabilities makes renting easy. Come to our site, research rentals, and get quotes from stores in your area. Then, choose a store and book online - all without picking up the phone",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353007, "longitude": -71.045389}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 36,
+  "name": "Resolute Marine Energy, Inc. (39)",
+  "description": "Resolute Marine Energy, Inc.'s goal is to complete development and commercialization by 2012 of a wavedriven seawater desalination system that operates completely  off-grid  and fills a huge gap in the market for seawater desalination systems. We're seeking a twotranche investment of $3.4M for additional IP protection and pilot-scale trials with a prospective customer in South Africa. By 2014, we will achieve $12 million of cumulative net income, serve more than 900,000 people.",
+  "pointOfInterestCategoryUid": 204,
+  "latLong": {"latitude": 42.353050, "longitude": -71.045304}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 37,
+  "name": "Savinz (38)",
+  "description": "At Savinz, we believe the shopper should be the epicenter of the buying experience. The current shopping process generates inefficiencies by delivering emails that clutter the Inbox. Savinz efficiently uses the email data by automatically organizing and analyzing them in a cloud platform. The analysis of the emails provides an added benefit by enabling social sharing of selected data contained in the emails. Sharing shopping victories makes shopping more fun, exciting, and comforting.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353050, "longitude": -71.045271}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 38,
+  "name": "SeedingLabs (49)",
+  "description": "Seeding Labs creates opportunities for scientists in the developing world to conduct world-class research. We work with U.S.-based corporate and academic partners to reduce environmental impact at home and provide affordable and appropriate surplus equipment to talented and ambitious scientists abroad. By transferring equipment from scientists to scientists we connect colleagues to share expertise and pursue new research that benefits the entire global community.",
+  "pointOfInterestCategoryUid": 203,
+  "latLong": {"latitude": 42.353085, "longitude": -71.045358}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 39,
+  "name": "SkinnyTrip (10)",
+  "description": "SkinnyTrip makes companies more profitable by giving employees incentives to spend less money on business travel. Employees are given points when they select flights, hotels, and rental cars that lower expenses. The points can be exchanged for thousands of different prizes, including name brand merchandise and vacation packages. Lower costs. Happier employees. SkinnyTrip.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353130, "longitude": -71.045038}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 40,
+  "name": "Social Context (7)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353235, "longitude": -71.045140}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 41,
+  "name": "Sproxil (45)",
+  "description": "Targeting the $75B global counterfeit market, Sproxil’s Mobile Product Authentication™ (MPA) provides anti-counterfeiting & market intelligence solutions to companies in emerging markets. Upon purchasing an MPA tagged product, consumers reveal & text a code. MPA replies about the product’s authenticity. Companies reduce counterfeiting, capture market intelligence data & can also place embedded ads in the replies. Currently operating in Nigeria for pharma, we generated over $300k in rev Q1 2010.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353052, "longitude": -71.045389}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 42,
+  "name": "Symmetric Computing (11)",
+  "description": "Symmetric Computing has developed software that changes the way technical computing will be done forever. We have created a completely new and unique operating system enhancement for Windows, Unix, Linux etc. This enhancement transforms a network connected cluster into a homogeneous compute platform. With our kernel modification, all the processors and memory within a cluster, are controlled under one OS image transforming a commodity based cluster into a true distributed SMP supercomputer.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353125, "longitude": -71.045070}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 43,
+  "name": "Symmetric Computing (16)",
+  "description": "Symmetric Computing has developed software that changes the way technical computing will be done forever. We have created a completely new and unique operating system enhancement for Windows, Unix, Linux etc. This enhancement transforms a network connected cluster into a homogeneous compute platform. With our kernel modification, all the processors and memory within a cluster, are controlled under one OS image transforming a commodity based cluster into a true distributed SMP supercomputer.",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353095, "longitude": -71.045071}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 44,
+  "name": "TapWalk (26)",
+  "description": "Google maps can zoom in to see a building's roof. What if you could zoom INTO the building? On your phone.  Our platform allows detailed mapping of large indoor or small outdoor locations on mobile phones. Any place that currently has a nice brightly colored paper map would be better served with an interactive location-aware map on your phone - with lots of info about each item on the map. Add in social media integration, location-based advertising, friend-finding, and more.",
+  "pointOfInterestCategoryUid": 202,
+  "latLong": {"latitude": 42.353025, "longitude": -71.045038}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 45,
+  "name": "TaskPoint (21)",
+  "description": "TaskPoint is easy to use online project management and collaboration software. Launched in October 2009 under the name PMP HQ it is currently used by customers from the USA, UK and EU representing a wide variety of industries and we anticipate rapid growth as the percentage of businesses that expect to spend at least quarter of their tech budgets on online software will jump from 23% in 2008 to 45% in 2010 according to IDC. It was listed in top 10 web project management tools by ComputerWoche.de",
+  "pointOfInterestCategoryUid": 201,
+  "latLong": {"latitude": 42.353073, "longitude": -71.045133}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 46,
+  "name": "The Startup Movie (44)",
+  "description": "",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353051, "longitude": -71.045355}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 47,
+  "name": "ViThera (51)",
+  "description": "ViThera develops new drugs based on engineered beneficial bacteria. Our lead product VT201 targets IBD, such as Crohn's or Colitis, a significant unmet need, and addresses a $10bn/yr market. VT201 is a food strain bacterium (Lactococcus Lactis, typical component of cheese) engineered to express an anti-inflammatory protein which controls inflammation in the gut-after oral intake of the therapeutic bacteria. We have a uniquely experienced team and strong exclusive IP position.",
+  "pointOfInterestCategoryUid": 205,
+  "latLong": {"latitude": 42.353107, "longitude": -71.045391}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 48,
+  "name": "Wiggio (55)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353158, "longitude": -71.045356}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 49,
+  "name": "Wiggio (57)",
+  "description": "",
+  "pointOfInterestCategoryUid": 208,
+  "latLong": {"latitude": 42.353188, "longitude": -71.045356}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 50,
+  "name": "Zazu (35)",
+  "description": "Zazu is the smartest damn alarm clock. Zazu runs on a user's Smartphone and replaces their alarm clock with an application that verbally reads them their calendar, weather, email, news and favorite blog posts as they get prepared for the day. Using RSS feeds and iCal formats, we are able to accept virtually any user s information to ensure they hear just what is important to them.",
+  "pointOfInterestCategoryUid": 202,
+  "latLong": {"latitude": 42.353008, "longitude": -71.045223}
+  } },
+
+ {"point_of_interest":
+  {
+  "uid": 51,
+  "name": "Zyrra (52,53)",
+  "description": "Zyrra uses mass-customization technology to solve a widespread problem: It is difficult to find bras that fit. We have a patent-pending fitting system for bras that goes outside the limited 36C 2-dimensional sizing model. We take 10 measurements (vs the standard 2) and create a unique cutting pattern for each client. A bra is then made to fit those measurements perfectly, delivered by mail within 4 weeks. Each bra comes with a perfect-fit guarantee.",
+  "pointOfInterestCategoryUid": 206,
+  "latLong": {"latitude": 42.353136, "longitude": -71.045372}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 52,
+  "name": "Conference Room 1",
+  "description": "",
+  "pointOfInterestCategoryUid": 212,
+  "latLong": {"latitude": 42.353339, "longitude": -71.045067}
+  } },
+ 
+ {"point_of_interest":
+  {
+  "uid": 53,
+  "name": "Conference Room 2",
+  "description": "",
+  "pointOfInterestCategoryUid": 212,
+  "latLong": {"latitude": 42.352984, "longitude": -71.045040}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 54,
+  "name": "Conference Room 3",
+  "description": "",
+  "pointOfInterestCategoryUid": 212,
+  "latLong": {"latitude": 42.353000, "longitude": -71.045440}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 55,
+  "name": "Conference Room 4",
+  "description": "",
+  "pointOfInterestCategoryUid": 212,
+  "latLong": {"latitude": 42.353340, "longitude": -71.045382}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 56,
+  "name": "Restrooms",
+  "description": "",
+  "pointOfInterestCategoryUid": 210,
+  "latLong": {"latitude": 42.353219, "longitude": -71.045181}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 57,
+  "name": "Meeting Area",
+  "description": "",
+  "pointOfInterestCategoryUid": 209,
+  "latLong": {"latitude": 42.353178, "longitude": -71.045095}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 58,
+  "name": "Kitchen",
+  "description": "",
+  "pointOfInterestCategoryUid": 211,
+  "latLong": {"latitude": 42.353303, "longitude": -71.045232}
+  } },
+  
+ {"point_of_interest":
+  {
+  "uid": 59,
+  "name": "MassChallenge Folks",
+  "description": "",
+  "pointOfInterestCategoryUid": 207,
+  "latLong": {"latitude": 42.353304, "longitude": -71.045069}
+  } }
+  ]

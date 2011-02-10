@@ -1,0 +1,32 @@
+[
+	{"map":
+		{
+		"mapType": "SingleImageMap",
+		"uid": 31,
+		"name": "Fan Pier 14th Floor", 
+		"description": "MassChallenge HQ",
+		"latLongRegion": 
+			{
+			"lowerLeftLatLong": {"latitude": 42.352828, "longitude": -71.045167}, 
+			"upperLeftLatLong": {"latitude": 42.353077, "longitude": -71.045698}, 
+			"upperRightLatLong": {"latitude": 42.353517, "longitude": -71.045306}, 
+			"lowerRightLatLong": {"latitude": 42.353268, "longitude": -71.044775} 
+			}
+		}
+	},
+	{"map":
+		{
+		"mapType": "GoogleMap",
+		"uid": 32,
+		"name": "Fan Pier Area", 
+		"description": "Area surrounding Mass Challenge HQ",
+		"latLongRegion": 
+			{
+			"lowerLeftLatLong": {"latitude": 42.3530714, "longitude": -71.045772}, 
+			"upperLeftLatLong": {"latitude": 42.3535550, "longitude": -71.045328}, 
+			"upperRightLatLong": {"latitude": 42.3533082, "longitude": -71.044790}, 
+			"lowerRightLatLong": {"latitude": 42.3528276, "longitude": -71.045234} 
+			}
+		}
+	}
+]

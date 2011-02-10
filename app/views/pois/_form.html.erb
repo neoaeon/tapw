@@ -1,0 +1,41 @@
+<%= form_for(@poi) do |f| %>
+  <% if @poi.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@poi.errors.count, "error") %> prohibited this poi from being saved:</h2>
+
+      <ul>
+      <% @poi.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :uid %><br />
+    <%= f.text_field :uid %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :poi_cat %><br />
+    <%= f.text_field :poi_cat %>
+  </div>
+  <div class="field">
+    <%= f.label :lattitude %><br />
+    <%= f.text_field :lattitude %>
+  </div>
+  <div class="field">
+    <%= f.label :longitude %><br />
+    <%= f.text_field :longitude %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

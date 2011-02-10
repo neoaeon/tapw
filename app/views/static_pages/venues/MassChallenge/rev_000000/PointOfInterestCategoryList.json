@@ -1,0 +1,98 @@
+[
+	{"point_of_interest_category":
+		{
+		"uid": 201,
+		"mapUid": 31,
+		"name": "High Tech", 
+		"description": "A MassChallenge finalist."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 202,
+		"mapUid": 31,
+		"name": "Mobile", 
+		"description": "A MassChallenge finalist."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 203,
+		"mapUid": 31,
+		"name": "Social Impact", 
+		"description": "A MassChallenge finalist."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 204,
+		"mapUid": 31,
+		"name": "Energy & Clean Tech", 
+		"description": "A MassChallenge finalist."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 205,
+		"mapUid": 31,
+		"name": "Life Science / Healthcare", 
+		"description": "A MassChallenge finalist."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 206,
+		"mapUid": 31,
+		"name": "General/Other", 
+		"description": "General/Other."
+		}
+	},
+    {"point_of_interest_category":
+		{
+		"uid": 207,
+		"mapUid": 31,
+		"name": "MassChallenge", 
+		"description": "MassChallenge"
+		}
+	},
+    {"point_of_interest_category":
+		{
+		"uid": 208,
+		"mapUid": 31,
+		"name": "Renter", 
+		"description": "Renter"
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 209,
+		"mapUid": 31,
+		"name": "Meeting Area", 
+		"description": "A place for people to meet and work together."
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 210,
+		"mapUid": 31,
+		"name": "Restrooms", 
+		"description": "Restrooms"
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 211,
+		"mapUid": 31,
+		"name": "Kitchen", 
+		"description": "Kitchen"
+		}
+	},
+	{"point_of_interest_category":
+		{
+		"uid": 212,
+		"mapUid": 31,
+		"name": "Conference Room", 
+		"description": "A room for people to meet and work together."
+		}
+	}
+]

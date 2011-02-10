@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @venue_import %>
+</p>
+<p>
+  <b>Id found:</b>
+  <%= @idx %>
+</p>
+
+<% @idx = 0 %>
+
+<table>
+  <tr>
+    <th>Venue Directory</th>
+    <th></th>
+  </tr>
+<% @venue_imports.each do | venue_dir | %>
+  <tr>
+    <td><%= venue_dir %></td>
+    <td><a href="<%=@idx%>">Show <%=@idx%></td>
+  </tr>
+  <% @idx += 1 %>
+<% end %>
+</table>
+
+<%= link_to 'Edit', edit_venue_path(@venue) %> |
+<%= link_to 'Back', venues_path %>

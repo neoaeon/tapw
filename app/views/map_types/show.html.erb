@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @map_type.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @map_type.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_map_type_path(@map_type) %> |
+<%= link_to 'Back', map_types_path %>

@@ -1,0 +1,45 @@
+<h1>Listing map_images</h1>
+
+<table>
+  <tr>
+    <th>Maptype</th>
+    <th>Uid</th>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Low left lat</th>
+    <th>Low left long</th>
+    <th>Up left lat</th>
+    <th>Up left long</th>
+    <th>Up right lat</th>
+    <th>Up right long</th>
+    <th>Low right lat</th>
+    <th>Low right long</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @map_images.each do |map_image| %>
+  <tr>
+    <td><%= map_image.mapType %></td>
+    <td><%= map_image.uid %></td>
+    <td><%= map_image.name %></td>
+    <td><%= map_image.description %></td>
+    <td><%= map_image.low_left_lat %></td>
+    <td><%= map_image.low_left_long %></td>
+    <td><%= map_image.up_left_lat %></td>
+    <td><%= map_image.up_left_long %></td>
+    <td><%= map_image.up_right_lat %></td>
+    <td><%= map_image.up_right_long %></td>
+    <td><%= map_image.low_right_lat %></td>
+    <td><%= map_image.low_right_long %></td>
+    <td><%= link_to 'Show', map_image %></td>
+    <td><%= link_to 'Edit', edit_map_image_path(map_image) %></td>
+    <td><%= link_to 'Destroy', map_image, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Map image', new_map_image_path %>

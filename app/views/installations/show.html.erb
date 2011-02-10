@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @installation.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @installation.description %>
+</p>
+
+<p>
+  <b>Venue:</b>
+  <%= @installation.venue %>
+</p>
+
+<p>
+  <b>Release:</b>
+  <%= @installation.release %>
+</p>
+
+<p>
+  <b>Migration:</b>
+  <%= @installation.migration %>
+</p>
+
+
+<%= link_to 'Edit', edit_installation_path(@installation) %> |
+<%= link_to 'Back', installations_path %>

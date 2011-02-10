@@ -1,0 +1,29 @@
+<%= form_for(@jsonfile) do |f| %>
+  <% if @jsonfile.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@jsonfile.errors.count, "error") %> prohibited this jsonfile from being saved:</h2>
+
+      <ul>
+      <% @jsonfile.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :filename %><br />
+    <%= f.text_field :filename %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :jsonparse %><br />
+    <%= f.text_area :jsonparse %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

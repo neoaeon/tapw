@@ -1,0 +1,76 @@
+{
+	"tabbar": {
+		"url": "tapwalk://maintabbar",
+		"class": "MainTabBarController",
+		"tabs": [
+			{
+				"title": "Intro",
+				"icon": "info.png",
+				"url": "tapwalk://intro"
+			},
+			{
+				"title": "Directory",
+				"icon": "directory.png",
+				"url": "tapwalk://directory"
+				"selected": true
+			},
+			{
+				"title": "Calendar",
+				"icon": "calendar.png",
+				"url": "tapwalk://calendarEventList"
+			},
+			{
+				"title": "News",
+				"icon": "info.png",
+				"url": "tapwalk://rss?url=http%3A%2F%2Fwww.reddit.com%2F.rss"
+			},
+			{
+				"title": "About",
+				"icon": "questionmark.png",
+				"url": "tapwalk://about?url=About.html"
+			}
+		]
+	},
+	"screens": {
+		"intro": {
+			"url": "tapwalk://intro",
+			"class": "IntroViewController"
+		},
+		"about": {
+			"url": "tapwalk://about?url=(initWithURL:)",
+			"class": "HTMLContentViewController"
+		},
+		"directory_map": {
+			"url": "tapwalk://directory",
+			"class": "DirectoryViewController"
+		},
+		"map": {
+			"url": "tapwalk://directory/map?id=(initWithMapID:)",
+			"class": "DirectoryViewController"
+		},
+		"poi": {
+			"url": "tapwalk://poi/view?id=(initWithPoiID:)",
+			"class": "POIDetailViewController"
+		},
+		"calendarevent": {
+			"url": "tapwalk://calendarevent/view?id=(initWithCalendarEventID:)",
+			"class": "CalendarEventDetailViewController"
+		},
+		"poi_map": {
+			"url": "tapwalk://map/poi?id=(initWithPoiID:)",
+			"class": "MapViewController"
+		},
+		"map": {
+			"url": "tapwalk://map/map?id=(initWithMapID:)",
+			"class": "MapViewController"
+		},
+		"calendareventlist": {
+			"url": "tapwalk://calendarEventList",
+			"class": "CalendarEventListViewController"
+		},
+		"rss": {
+			"url": "tapwalk://rss?url=(initWithURL:)",
+			"class": "TWRSSTableViewController"
+		}
+	}
+}

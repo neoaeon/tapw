@@ -1,0 +1,35 @@
+[
+	{"calendar_event":
+		{
+		"uid": 11,
+		"name": "Final Judging", 
+		"description": "The 1st session of final judging.",
+		"calendarEventCategoryUid": 101,
+		"startDateTime": "2010-10-15 1:00 PM EST",
+		"endDateTime": "2010-10-15 7:00 PM EST",
+		"locationPointOfInterestUid": 21
+		}
+	},
+	{"calendar_event":
+		{
+		"uid": 12,
+		"name": "Final Judging", 
+		"description": "The 2nd session of final judging.",
+		"calendarEventCategoryUid": 101,
+		"startDateTime": "2010-10-18 1:00 PM EST",
+		"endDateTime": "2010-10-19 7:00 PM EST",
+		"locationPointOfInterestUid": 21
+		}
+	},
+	{"calendar_event":
+		{
+		"uid": 13,
+		"name": "Award Ceremony", 
+		"description": "26 Teams pitch, ~10 teams win.",
+		"calendarEventCategoryUid": 102,
+		"startDateTime": "2010-10-18 5:00 PM EST",
+		"endDateTime": "2010-11-18 7:00 PM EST",
+		"locationPointOfInterestUid": 21
+		}
+	}
+]

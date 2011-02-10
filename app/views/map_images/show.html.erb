@@ -1,0 +1,65 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Maptype:</b>
+  <%= @map_image.mapType %>
+</p>
+
+<p>
+  <b>Uid:</b>
+  <%= @map_image.uid %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @map_image.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @map_image.description %>
+</p>
+
+<p>
+  <b>Low left lat:</b>
+  <%= @map_image.low_left_lat %>
+</p>
+
+<p>
+  <b>Low left long:</b>
+  <%= @map_image.low_left_long %>
+</p>
+
+<p>
+  <b>Up left lat:</b>
+  <%= @map_image.up_left_lat %>
+</p>
+
+<p>
+  <b>Up left long:</b>
+  <%= @map_image.up_left_long %>
+</p>
+
+<p>
+  <b>Up right lat:</b>
+  <%= @map_image.up_right_lat %>
+</p>
+
+<p>
+  <b>Up right long:</b>
+  <%= @map_image.up_right_long %>
+</p>
+
+<p>
+  <b>Low right lat:</b>
+  <%= @map_image.low_right_lat %>
+</p>
+
+<p>
+  <b>Low right long:</b>
+  <%= @map_image.low_right_long %>
+</p>
+
+
+<%= link_to 'Edit', edit_map_image_path(@map_image) %> |
+<%= link_to 'Back', map_images_path %>

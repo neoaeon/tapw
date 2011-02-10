@@ -1,0 +1,65 @@
+<%= form_for(@map_image) do |f| %>
+  <% if @map_image.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@map_image.errors.count, "error") %> prohibited this map_image from being saved:</h2>
+
+      <ul>
+      <% @map_image.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :mapType %><br />
+    <%= f.text_field :mapType %>
+  </div>
+  <div class="field">
+    <%= f.label :uid %><br />
+    <%= f.text_field :uid %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :low_left_lat %><br />
+    <%= f.text_field :low_left_lat %>
+  </div>
+  <div class="field">
+    <%= f.label :low_left_long %><br />
+    <%= f.text_field :low_left_long %>
+  </div>
+  <div class="field">
+    <%= f.label :up_left_lat %><br />
+    <%= f.text_field :up_left_lat %>
+  </div>
+  <div class="field">
+    <%= f.label :up_left_long %><br />
+    <%= f.text_field :up_left_long %>
+  </div>
+  <div class="field">
+    <%= f.label :up_right_lat %><br />
+    <%= f.text_field :up_right_lat %>
+  </div>
+  <div class="field">
+    <%= f.label :up_right_long %><br />
+    <%= f.text_field :up_right_long %>
+  </div>
+  <div class="field">
+    <%= f.label :low_right_lat %><br />
+    <%= f.text_field :low_right_lat %>
+  </div>
+  <div class="field">
+    <%= f.label :low_right_long %><br />
+    <%= f.text_field :low_right_long %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,27 @@
+<h1>Listing cal_event_cats</h1>
+
+<table>
+  <tr>
+    <th>Uid</th>
+    <th>Name</th>
+    <th>Description</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @cal_event_cats.each do |cal_event_cat| %>
+  <tr>
+    <td><%= cal_event_cat.uid %></td>
+    <td><%= cal_event_cat.name %></td>
+    <td><%= cal_event_cat.description %></td>
+    <td><%= link_to 'Show', cal_event_cat %></td>
+    <td><%= link_to 'Edit', edit_cal_event_cat_path(cal_event_cat) %></td>
+    <td><%= link_to 'Destroy', cal_event_cat, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Cal event cat', new_cal_event_cat_path %>

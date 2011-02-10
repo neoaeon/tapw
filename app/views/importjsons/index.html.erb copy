@@ -1,0 +1,71 @@
+<h1>Main Import Display</h1>
+<%= render 'list' %>
+<p>
+
+<table>
+  <tr>
+	<th>Object</th>
+    <th>Database</th>
+    <th>Action</th>
+    <th>Import Directory</th>
+  </tr>
+  <tr>
+	<th>Venue</th>
+	<td>
+	  <table>
+	    <tr>
+	      <th>uid</th>
+	      <th>name</th>
+	      <th>description</th>
+		</tr>
+        <% @venuesData.each do |venueData| %>
+          <tr>
+	        <td><%= venueData.uid %></td>
+            <td><%= venueData.name %></td>
+            <td><%= venueData.description %></td>
+		  </tr>
+        <% end %>
+	  </table
+	</td>
+	<% if @venuesSame %>
+		<td>Same</td>
+	<% else %>
+	   <td><a href="/imports/<%= @vend %>/rev/<%= @revn %>/venue">Import</a></td>
+	<%end %>
+	<td>
+	  <table>
+	    <tr>
+	      <th>uid</th>
+	      <th>name</th>
+	      <th>description</th>
+		</tr>
+	    <% @venuesImport.each do |venueImport| %>
+		  <tr>
+	        <td><%= venueImport.uid %></td>
+            <td><%= venueImport.name %></td>
+            <td><%= venueImport.description %></td>
+		  </tr>
+	   <% end %>
+	  </table
+	</td>
+  </tr>
+</table>
+
+</p>
+
+<%  if Rails.env.development? %>
+<h4> Debug info (only shows in dev environment) </h4>
+<p>
+  <b>Venue Dir:</b><%= @vend %>
+</p>
+<p>
+  <b>Rev Ndx</b> <%= @revn %>
+</p>
+<p>
+  <b>@venue_list_file</b> <%= @venue_list_file %>
+</p>
+<p>
+    <b>VenueList.json</b> 
+  <textarea rows="10" columns="40"><%= @str_venue_list %></textarea>
+</p>
+<% end %>

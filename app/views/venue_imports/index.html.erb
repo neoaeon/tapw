@@ -1,0 +1,17 @@
+<h1>Listing Venue Directories</h1>
+
+<table>
+  <tr>
+    <th>Venue Directory</th>
+  </tr>
+<% @venue_imports.each do | venue_dir | %>
+  <tr>
+    <td><%= venue_dir %> <a href="/imports/<%=@id%>">Show Revisions</a></td>
+
+  </tr>
+  <% @id += 1 %>
+<% end %>
+</table>
+
+<br />
+

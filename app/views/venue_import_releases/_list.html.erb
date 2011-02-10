@@ -1,0 +1,28 @@
+<p>
+  <b>Venue Directory:<%= @idx %></b>
+  <%= @venue_import %>
+</p>
+<p>
+  <b>Venue Import Id</b> <%= @idy = 0 %>
+</p>
+<p>
+  <b>Import Directory:<%= @idx %></b>
+  <%= @import_dir %>
+</p>
+
+<table>
+  <tr>
+    <th>Release Directory</th>
+    <th>Import From</th>
+    <th>Publish To</th>
+  </tr>
+<% @venue_import_releases.each do | venue_release_dir | %>
+  <tr>
+    <td><%= venue_release_dir %></td>
+    <td><a href="/imports/<%= @idx %>/rev/<%= @idy %>">Import From</td>
+    <td><a href="/imports/<%= @idx %>/rev/<%= @idy %>/pubto">Publish To</td>
+  </tr>
+  <% @idy += 1 %>
+<% end %>
+</table>
+<br />

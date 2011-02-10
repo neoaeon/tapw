@@ -1,0 +1,29 @@
+<h1>Listing poi_cats</h1>
+
+<table>
+  <tr>
+    <th>Uid</th>
+    <th>Mapuid</th>
+    <th>Name</th>
+    <th>Description</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @poi_cats.each do |poi_cat| %>
+  <tr>
+    <td><%= poi_cat.uid %></td>
+    <td><%= poi_cat.mapuid %></td>
+    <td><%= poi_cat.name %></td>
+    <td><%= poi_cat.description %></td>
+    <td><%= link_to 'Show', poi_cat %></td>
+    <td><%= link_to 'Edit', edit_poi_cat_path(poi_cat) %></td>
+    <td><%= link_to 'Destroy', poi_cat, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Poi cat', new_poi_cat_path %>

@@ -1,0 +1,30 @@
+[
+	{"calendar_event_category":
+		{
+		"uid": 801,
+		"name": "Judging", 
+		"description": "Judging",
+		}
+	},
+	{"calendar_event_category":
+		{
+		"uid": 802,
+		"name": "Guest Speaker", 
+		"description": "Show Logistics."
+		}
+	},
+	{"calendar_event_category":
+		{
+		"uid": 803,
+		"name": "Meal", 
+		"description": "Meal."
+		}
+	},
+	{"calendar_event_category":
+		{
+		"uid": 803,
+		"name": "Networking", 
+		"description": "Networking Event."
+		}
+	}
+]

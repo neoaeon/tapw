@@ -1,0 +1,73 @@
+[
+	{"skin":
+		{
+		"name": "TapWalk", 
+		"uid": 30000,
+		"parentSkinUid": 0,
+		
+		"primaryFont": {"font" : {"name": "MarkerFelt-Thin",
+								  "size": 18,
+								  "color": "red"}},
+		"secondaryFont": {"font" : {"name": "MarkerFelt-Thin",
+								    "size": 16,
+								    "color": "red"}},
+		"tertiaryFont": {"font" : {"name": "MarkerFelt-Thin",
+								   "size": 12,
+							 	   "color": "red"}}								  
+		}
+	},
+	{"skin":
+		{
+		"name": "MassChallenge", 
+		"uid": 30001,
+		"parentSkinUid": 30000,
+		
+		"primaryFont": {"font" : {"name": "MarkerFelt-Thin",
+								  "size": 20,
+								  "color": "blue"}}
+		}
+	},
+	{"skin":
+		{
+		"name": "SplashScreen", 
+		"uid": 30002,
+		"parentSkinUid": 30001
+		}
+	},
+	{"skin":
+		{
+		"name": "IntroScreen", 
+		"uid": 30003,
+		"parentSkinUid": 30001
+		}
+	},
+	{"skin":
+		{
+		"name": "PointOfInterestListScreen", 
+		"uid": 30004,
+		"parentSkinUid": 30001
+		}
+	},
+	{"skin":
+		{
+		"name": "CalendarEventListScreen", 
+		"uid": 30005,
+		"parentSkinUid": 30001
+		}
+	},
+	{"skin":
+		{
+		"name": "PointOfInterestMapScreen", 
+		"uid": 30006,
+		"parentSkinUid": 30001
+		}
+	},
+	{"skin":
+		{
+		"name": "PointOfInterestDetailScreen", 
+		"uid": 30007,
+		"parentSkinUid": 30001
+		}
+	}
+]
+	

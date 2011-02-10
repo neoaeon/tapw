@@ -1,0 +1,124 @@
+
+<p>
+
+<table>
+  <tr>
+	<th>Object</th>
+    <th>Database</th>
+    <th>Action</th>
+    <th>Import Directory</th>
+  </tr>
+  <tr>
+	<th>Venue</th>
+	<td>
+	  <table>
+	    <tr>
+	      <th>uid</th>
+	      <th>name</th>
+	      <th>description</th>
+		</tr>
+        <% @venuesData.each do |venueData| %>
+          <tr>
+	        <td><%= venueData.uid %></td>
+            <td><%= venueData.name %></td>
+            <td><%= venueData.description %></td>
+		  </tr>
+        <% end %>
+	  </table
+	</td>
+	<% if @venuesSame %>
+		<td>Same</td>
+	<% else %>
+	   <td><a href="/imports/<%= @vend %>/rev/<%= @revn %>/venue">Import</a></td>
+	<%end %>
+	<td>
+	  <table>
+	    <tr>
+	      <th>uid</th>
+	      <th>name</th>
+	      <th>description</th>
+		</tr>
+	    <% @venuesImport.each do |venueImport| %>
+		  <tr>
+	        <td><%= venueImport.uid %></td>
+            <td><%= venueImport.name %></td>
+            <td><%= venueImport.description %></td>
+		  </tr>
+	   <% end %>
+	  </table
+	</td>
+  </tr>
+  <tr>
+	<th>POI Category</th>
+	<td>
+        <% @poi_catsData.each do |poi_catData| %>
+  		  <p><b>uid</b>        <%= poi_catData.uid %></p>
+		  <p><b>mapuid</b>     <%= poi_catData.mapuid %></p>
+		  <p><b>name</b>       <%= poi_catData.name %></p>
+		  <p><b>descripton</b> <%= poi_catData.description %></p>
+        <% end %>
+	</td>
+	<% if @poiSame %>
+		<td rowspan="2">Poi Categories/Items Same</td>
+	<% else %>
+	   <td rowspan="2"><a href="/imports/<%= @vend %>/rev/<%= @revn %>/poi_cat">Import Poi Category & Items</a></td>
+	<%end %>
+	<td>
+        <% @poi_catsImport.each do |poi_catImport| %>
+  		  <p><b>uid</b>        <%= poi_catImport.uid %></p>
+		  <p><b>mapuid</b>     <%= poi_catImport.mapuid %></p>
+		  <p><b>name</b>       <%= poi_catImport.name %></p>
+		  <p><b>descripton</b> <%= poi_catImport.description %></p>
+        <% end %>
+	</td>
+  </tr>
+  <tr>
+	<th>Points Of Interest</th>
+	<td>
+        <% @poisData.each do |poiData| %>
+  		  <p><b>uid</b>        <%= poiData.uid %></p>
+		  <p><b>poi_catuid</b>     <%= poiData.poi_cat %></p>
+		  <p><b>name</b>       <%= poiData.name %></p>
+		  <p><b>descripton</b> <%= poiData.description %></p>
+		  <p><b>lattitude</b>     <%= poiData.lattitude %></p>
+		  <p><b>longitude</b>     <%= poiData.longitude %></p>
+        <% end %>
+	</td>
+	<td>
+        <% @poisImport.each do |poiImport| %>
+  		  <p><b>uid</b>        <%= poiImport.uid %></p>
+		  <p><b>poi_catuid</b>     <%= poiImport.poi_cat %></p>
+		  <p><b>name</b>       <%= poiImport.name %></p>
+		  <p><b>descripton</b> <%= poiImport.description %></p>
+		  <p><b>lattitude</b>     <%= poiImport.lattitude %></p>
+		  <p><b>longitude</b>     <%= poiImport.longitude %></p>
+        <% end %>
+	</td>
+  </tr>
+</table>
+
+</p>
+
+<%  if Rails.env.development? %>
+<h4> Debug info from here down (only shows in dev environment) </h4>
+<p>
+  <b>Venue Dir:</b><%= @vend %>
+</p>
+<p>
+  <b>Rev Ndx</b> <%= @revn %>
+</p>
+<p>
+  <b>@venue_list_file</b> <%= @venue_list_file %>
+</p>
+<p>
+    <b>VenueList.json</b> 
+  <textarea rows="10" columns="40"><%= @str_venue_list %></textarea>
+</p>
+
+<p>
+    <b><b>@poi_cat_list_file</b> <%= @poi_cat_list_file %></b> <br />
+  <textarea rows="10" columns="40"><%= @str_poi_cat_list %></textarea>
+</p>
+
+
+<% end %>

@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Filename:</b>
+  <%= @jsonfile.filename %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @jsonfile.description %>
+</p>
+
+<p>
+  <b>Jsonparse:</b>
+  <%= @jsonfile.jsonparse %>
+</p>
+
+
+<%= link_to 'Edit', edit_jsonfile_path(@jsonfile) %> |
+<%= link_to 'Back', jsonfiles_path %>

@@ -1,0 +1,37 @@
+<%= form_for(@installation) do |f| %>
+  <% if @installation.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@installation.errors.count, "error") %> prohibited this installation from being saved:</h2>
+
+      <ul>
+      <% @installation.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :venue %><br />
+    <%= f.text_field :venue %>
+  </div>
+  <div class="field">
+    <%= f.label :release %><br />
+    <%= f.text_field :release %>
+  </div>
+  <div class="field">
+    <%= f.label :migration %><br />
+    <%= f.text_field :migration %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
